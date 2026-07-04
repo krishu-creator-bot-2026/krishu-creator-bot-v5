@@ -1,0 +1,14 @@
+{
+  "name": "krishu-creator-bot-v5",
+  "version": "5.0.0",
+  "description": "Krishu Creator Bot - Best Mini Bot",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "@hapi/boom": "^10.0.1",
+    "qrcode-terminal": "^0.12.0",
+    "axios": "^1.7.2",
+    "chalk": "^4.1.2"
+  }
+}
